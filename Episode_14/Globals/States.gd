@@ -1,0 +1,3 @@
+extends Node
+
+enum PlayerState{NORMAL,JUMP,FALL,LAND,DIE,NEXT,START,BOUNCE}
